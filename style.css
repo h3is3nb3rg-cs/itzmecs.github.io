@@ -1,0 +1,24 @@
+.header {
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+body {
+  border: 3px solid black;
+}
+
+.footer {
+  text-align: center;
+  color: blue;
+}
+
+.subscribe {
+  text-align: center;
+  color: red;
+}
+
+ol {
+  background: #E6CE75;
+  padding: 15px;
+  display: inline-block;
+}
